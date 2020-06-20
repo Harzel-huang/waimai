@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 
 Vue.use(Router)
-import start from '../views/Start';
+import start from '../views/Start';//测试上上传是否成功
 import search from '../views/Search'
 import order from '../views/Order';
 import mine from '../views/Mine';
